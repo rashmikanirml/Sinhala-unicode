@@ -1,0 +1,2 @@
+# For prototyping transliteration/translation logic
+# (Rust and Node dependencies handled by Tauri)
