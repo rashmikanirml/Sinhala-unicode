@@ -1,0 +1,21 @@
+{
+  "build": {
+    "beforeBuildCommand": "",
+    "beforeDevCommand": "",
+    "devPath": "../src",
+    "distDir": "../src"
+  },
+  "package": {
+    "productName": "Singlish Transliterator",
+    "version": "0.1.0"
+  },
+  "tauri": {
+    "windows": [
+      {
+        "title": "Singlish Transliterator",
+        "width": 600,
+        "height": 500
+      }
+    ]
+  }
+}
